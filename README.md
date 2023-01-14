@@ -1,5 +1,6 @@
 # Rise_of_Empires
 An interactive game created in the command line environment as part of the Introduction to Unix course.
+
 After downloading the tgz file, open command prompt and type the folllowing line.
 "pscp c:\users\yourUser\Downloads\Rise-of-Empires-LarkGroup18.tgz userName@serverName:homeDirectory/Rise-of-Empires-LarkGroup18.tgz"
 
