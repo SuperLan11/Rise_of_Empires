@@ -9,7 +9,7 @@ Note that the following things need to be provided for the copy to be successful
 yourUser is the name of the user folder on your computer.
 userName is your login name for the server you wish to login to.
 serverName is the name of the server you wish to copy the file to.
-homeDirectory is the main directory for your server. You can find it by typing "cd ~" then "pwd" while in the server.
+homeDirectory is the main directory for your server. You can find it by typing "cd ~" then "pwd" while in the server. Include the first forward slash
 
 Once successful, login to the server.
 Then use "tar -xzvf Rise-of-Empires-LarkGroup18.tgz".
