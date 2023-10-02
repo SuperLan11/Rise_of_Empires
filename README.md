@@ -17,4 +17,4 @@ This will unpack the project into a directory in your server.
 Use "cd Rise-of-Empires-LarkGroup18" to change to this new directory.
 Then use "cat readme.txt" and follow the instructions.
 
-If you have issues tarring the tgz file, you can copy the folder provided instead. You can view the code made to create the game in this folder.
+If you have issues tarring the tgz file, you can copy the folder provided instead. You can also view the code made to create the game in this folder.
