@@ -24,5 +24,7 @@ Use train with a troop type to build your army. The train directory contains tro
 Use the up and down arrows to search or repeat your previous commands
 Use the directions function (just type directions then enter) to view these instructions while in the game
 Note: It is recommended to play with green text as that is what I based my colors off of
+To get green text, enter color 2, or right click the terminal window, make a new color scheme, set foreground color to #11960d and set the scheme as default
+
 Enter . start.sh to begin the game
 
