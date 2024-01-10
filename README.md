@@ -1,8 +1,14 @@
-# Rise_of_Empires
-An interactive game created in the command line environment as part of the Introduction to Unix course.
+## Project Background
+Rise of Empires is a terminal-based game created in the Introduction to Unix course.
+The goal of the project was to teach the player basic terminal commands in a gamified way. 
+The games gives examples of important commands to guide the player through the beginning of the game.
+The game also includes an instruction guide, which explains every command in the game.
+This guide can be accessed at any time during the game.
+I took inspiration from Age of Empires with the ability to create resource buildings and train troops. 
 
+## How to Play the Game
 After downloading the tgz file, open command prompt and type the folllowing line.
-"pscp c:\users\yourUser\Downloads\Rise-of-Empires-LarkGroup18.tgz userName@serverName:homeDirectory/Rise-of-Empires-LarkGroup18.tgz"
+pscp c:\users\yourUser\Downloads\Rise-of-Empires-LarkGroup18.tgz userName@serverName:homeDirectory/Rise-of-Empires-LarkGroup18.tgz
 
 This will copy the project file from your downloads into your server's home directory. 
 Note that the following things need to be provided for the copy to be successful:
